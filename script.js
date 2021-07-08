@@ -15,6 +15,8 @@ window.addEventListener('keydown', (e) =>{
     eventKeyCodeP.innerHTML = e.keyCode;
 
 
-})
+});
 
-
+//TODO: if statement on line 11 shortened?
+//TODO: use JS to insert the html that goes into the container-div
+//TODO: make the page show just instructions and no codes onload
